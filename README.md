@@ -11,7 +11,7 @@
 
 # Rodrigo Suguetsu
 I'm a game designer graduatedy by Anhembi Morumbi, and now I'm improving myself as a software enginner, I gonna be a game developer!
-I alread worked as trainee game developer at Eleven dragons.  I did a ramake of the game [Cook of souls](https://www.youtube.com/watch?v=NkGHb0jqRnE&list=PLHx4gm0Gk8el0GIE7MZpTXKyFe1oSElBT ) for the teacher [Gilberto Prado](https://l1nk.dev/qVK9a), where I had to update the game from 3DGS to Unity in C#, and I worked as game artist in the game [Rift Adventure](https://www.youtube.com/watch?v=eVA302HlxIk) when I was doing my game graduation in 2019.
+I alread worked as trainee game developer at Eleven dragons.  I did a remake of the game [Cook of souls](https://www.youtube.com/watch?v=NkGHb0jqRnE&list=PLHx4gm0Gk8el0GIE7MZpTXKyFe1oSElBT ) for the teacher [Gilberto Prado](https://l1nk.dev/qVK9a), where I had to update the game from 3DGS to Unity in C#, and I worked as game artist in the game [Rift Adventure](https://www.youtube.com/watch?v=eVA302HlxIk) when I was doing my game graduation in 2019.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/amarelo77/)
